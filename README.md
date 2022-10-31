@@ -22,7 +22,6 @@ Desde entonces estoy constantemente aprendiendo nuevas habilidades que me acerqu
 
 ## 📡 Contáctame:
 
-📩 martinkunbrc@hotmail.com
-
+📩 martinkunbrc@hotmail.com<br /> 
 <img src="https://www.pngitem.com/pimgs/m/49-493587_linkedin-png-icon-linked-in-logo-vector-white.png" width="20px"><a href="https://www.linkedin.com/in/mart%C3%ADn-kun-b13620209/"> LinkedIn</a>
 

@@ -1,2 +1,2 @@
 # Hi, I'm Martín 👋🏻👨🏻‍💻
-<img src="https://i.ibb.co/hB1xhP6/banner-linkedin.jpg" />
+[![banner-linkedin.jpg](https://i.postimg.cc/GpKZVS6k/banner-linkedin.jpg)](https://postimg.cc/NyyJrbsM)

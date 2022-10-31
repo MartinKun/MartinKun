@@ -6,7 +6,6 @@
 Hace algunos años buscaba darle un giro a mi vida profesional y gracias a mi creciente curiosidad por el desarrollo de aplicaciones fue que descubrí mi pasión por la programación.
 Desde entonces estoy constantemente aprendiendo nuevas habilidades que me acerquen a la meta de ser un buen profesional de la industria IT.
 
-<br />
 👨🏻‍💻  Me considero una persona comprometida, proactiva y autodidacta.<br />
 🚀  Me apasiona encarar nuevos desafíos y aprender nuevas tecnologías. <br />
 🌱  Trabajo bien en equipos y de rápida adaptación y aprendizaje.

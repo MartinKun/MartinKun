@@ -13,9 +13,7 @@ Desde entonces estoy constantemente aprendiendo nuevas habilidades que me acerqu
 🚀 Me apasiona encarar nuevos desafíos y aprender nuevas tecnologías. 
 
 🌱 Trabajo bien en equipos y de rápida adaptación y aprendizaje.
-
-
-
+<br>
 
 
 ## 🧰 Tecnologías que utilizo y que sigo aprendiendo:

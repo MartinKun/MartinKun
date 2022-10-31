@@ -7,6 +7,7 @@ Hace algunos años buscaba darle un giro a mi vida profesional y gracias a mi cr
 Desde entonces estoy constantemente aprendiendo nuevas habilidades que me acerquen a la meta de ser un buen profesional de la industria IT.
 
 
+
 👨🏻‍💻 Me considero una persona comprometida, proactiva y autodidacta.
 
 🚀 Me apasiona encarar nuevos desafíos y aprender nuevas tecnologías. 

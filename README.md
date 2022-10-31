@@ -8,9 +8,9 @@ Desde entonces estoy constantemente aprendiendo nuevas habilidades que me acerqu
 
 
 
-👨🏻‍💻 Me considero una persona comprometida, proactiva y autodidacta.<br />
-🚀 Me apasiona encarar nuevos desafíos y aprender nuevas tecnologías. <br />
-🌱 Trabajo bien en equipos y de rápida adaptación y aprendizaje.
+👨🏻‍💻  Me considero una persona comprometida, proactiva y autodidacta.<br />
+🚀  Me apasiona encarar nuevos desafíos y aprender nuevas tecnologías. <br />
+🌱  Trabajo bien en equipos y de rápida adaptación y aprendizaje.
 <br />
 <br />
 

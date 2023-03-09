@@ -19,6 +19,8 @@ Backend:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" alt="PostgreSql"/></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="Junit"/></code>
 
+<br />
+
 Frontend: 
 <code><img height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5"/></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS"/></code>
